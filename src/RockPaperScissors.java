@@ -10,7 +10,7 @@ public class RockPaperScissors {
         Scanner sage = new Scanner(System.in);
         Random rnd = new Random();
         System.out.println("Rock Paper Scissors!");
-        System.out.println("Select 1, 2, 3, for Rock, Paper, Scissors");
+        System.out.println("Select 6, 2, 3, for Rock, Paper, Scissors");
 
 
         while (b != 0) {
